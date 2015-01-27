@@ -1,3 +1,5 @@
+addictinginfo.org
+amazingworld-news.com
 buzzfeed.com
 clickhole.com
 deadstate.org
@@ -5,12 +7,15 @@ deathandtaxesmag.com
 distractify.com
 elitedaily.com
 faithit.com
+higherperspective.com
 huffingtonpost.com
 iflscience.com
 matadornetwork.com
 metaspoon.sfglobe.com
+motivious.com
 movoto.com
 nationalreport.net
+pawmygosh.com
 policymic.com
 quickmeme.com
 reshareworthy.com
@@ -21,6 +26,8 @@ tickld.com
 unlooker.com
 upinspire.com
 upliftmag.com
+upsworthy.com
 upworthy.com
 viralnova.com
 vitaminl.tv
+westernjournalism.com
